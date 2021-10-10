@@ -1,1 +1,1 @@
-web: python app.py
+web: requirements.txt && python app.py
